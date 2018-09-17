@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.overheaddoordenver.com");
+header("Location: http://danceparade.org/");
 die();
 ?>
